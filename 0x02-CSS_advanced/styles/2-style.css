@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    color: var(--text-color);
+    color: var(--color-white);
 }
 
 a{
