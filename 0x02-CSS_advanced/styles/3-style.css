@@ -4,7 +4,11 @@
     --color-white: #ffffff;
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
-    --text-color: #090909;
+    --text-color: var(--color-black);
+}
+
+body{
+    color: var(--text-color);
 }
 
 .section-tagline{
@@ -15,7 +19,3 @@
     color: var(--color-primary);
 }
 
-
-body{
-    color: var(--text-color);
-}
