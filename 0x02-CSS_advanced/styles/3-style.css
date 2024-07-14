@@ -19,3 +19,6 @@ body{
     color: var(--color-primary);
 }
 
+a{
+    color: var(--color-primary);
+}
