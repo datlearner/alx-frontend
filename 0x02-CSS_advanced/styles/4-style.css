@@ -17,3 +17,14 @@ body{
 .section h2{
     font-family: var(--family-title);
 }
+.section-tagline{
+    color: var(--color-primary);
+}
+
+.card-category{
+    color: var(--color-primary);
+}
+
+a{
+    color: var(--color-primary);
+}
