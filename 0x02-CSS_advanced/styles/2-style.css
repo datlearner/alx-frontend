@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    color: var(--color-white);
+    color: #161616;
 }
 
 a{
@@ -15,10 +15,10 @@ a{
 }
 
 .card-category{
-    color: var(--color-white);
+    color: #D73953;
 }
 
 .section-tagline{
-    color: var(--color-white);
+    color: #D73953;
 }
 
