@@ -11,16 +11,4 @@
 
 body{
     font-family: var(--font-family-base);
-    color: var(--text-color);
-}
-.section-tagline{
-    color: var(--color-primary);
-}
-
-.card-category{
-    color: var(--color-primary);
-}
-
-a{
-    color: var(--color-primary);
 }
