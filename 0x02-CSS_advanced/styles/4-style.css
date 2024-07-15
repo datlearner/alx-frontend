@@ -1,6 +1,6 @@
 :root{
     --font-family-base: 'Helvetica Neue',Helvetica,Arial,sans-serif;
-    --family-title: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    --font-family-title: 'Helvetica Neue',Helvetica,Arial,sans-serif;
     --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
@@ -16,7 +16,7 @@ body{
 
 section h1, h2, h3
 h4, h5, h6{
-    font-family: var(--family-title);
+    font-family: var(--font-family-title);
 }
 .section-tagline{
     color: var(--color-primary);
