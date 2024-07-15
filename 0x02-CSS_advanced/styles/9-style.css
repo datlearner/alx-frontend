@@ -47,4 +47,5 @@ h4, h5, h6{
 
 a{
     color: var(--color-primary);
+    text-decoration: none;
 }
