@@ -1,6 +1,6 @@
 :root{
-    --font-family-base: 'Helvetica Neue',Arial;
-    --family-title: 'Helvetica',sans-serif;
+    --font-family-base: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    --family-title: 'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
 body{
