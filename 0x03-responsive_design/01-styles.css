@@ -858,3 +858,12 @@
     cursor: text;
     margin: 0 1rem;
   }
+
+  .hero-homepage{
+    background-position: 65% 8rem;
+    background-size: 90rem auto;
+  }
+
+  .section-hero .section-inner{
+    min-height: 35vh;
+  }
