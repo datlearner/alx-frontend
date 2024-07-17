@@ -176,6 +176,13 @@
     clip: rect(1px, 1px, 1px, 1px);
     white-space: nowrap;
   }
+
+@media (max-width: 992px){
+    .main-section img{
+        width: 100%;
+        height: auto;
+    }
+}
   
   /*** 2. LAYOUT ***/
   
